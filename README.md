@@ -1,6 +1,6 @@
 ### Hi there 👋 Hitesh here!
 
-- 🔭 I’m currently working on: [silver-fiesta](https://github.com/shellbot97/silver-fiesta) 
+- 🔭 I’m currently working on: [silver-fiesta](https://github.com/shellbot97/silver-fiesta) [turbo-octo-adventure](https://github.com/shellbot97/turbo-octo-adventure)
 - 🌱 I’m currently learning javascript, nodejs
 - 🤔 I’m looking for help with : The list is long...
 - 💬 Ask me about : full stack web development | personal finance | the chocoleteyness of melody!
