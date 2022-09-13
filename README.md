@@ -1,6 +1,6 @@
 ### Hi there 👋 Hitesh here!
 
-- 🔭 I’m currently working on: [bug-free-telegram]([url](https://github.com/shellbot97/bug-free-telegram)) 
+- 🔭 I’m currently working on: [bug-free-telegram](https://github.com/shellbot97/bug-free-telegram) 
 - 🌱 I’m currently learning javascript, nodejs
 - 🤔 I’m looking for help with : The list is long...
 - 💬 Ask me about : full stack web development | personal finance | the chocoleteyness of melody!
